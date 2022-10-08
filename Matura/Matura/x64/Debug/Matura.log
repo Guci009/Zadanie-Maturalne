@@ -1,0 +1,4 @@
+﻿  Matura.cpp
+C:\Users\Glucio\source\repos\Matura\Matura\Matura.cpp(87,22): warning C4101: "liczba2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Glucio\source\repos\Matura\Matura\Matura.cpp(87,31): warning C4101: "liczba3": lokalna zmienna, do której nie istnieje odwołanie
+  Matura.vcxproj -> C:\Users\Glucio\source\repos\Matura\x64\Debug\Matura.exe
